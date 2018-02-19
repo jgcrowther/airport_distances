@@ -1,11 +1,10 @@
 # Lat/Lon Coordinates Nearest Airport
-James Crowther's solution for recruitment task 02/2018.
 
 ## Prerequisites
 
 Developed and tested with Python 3.6.1
 
-Requires geopy version 1.11.0
+Requirments found in requiremtns.txt
 
 
 ## Running the module
